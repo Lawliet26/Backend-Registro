@@ -2,6 +2,8 @@ from rest_framework import serializers
 from django.contrib.auth.password_validation import validate_password
 from ..models import User
 
+# Este serializador nos permite convertir los datos de salida a JSON y permite convertir los datos de entrada a objetos python
+
 class UserRegistrationSerializer(serializers.ModelSerializer):
     password = serializers.CharField(write_only = True, validators = [validate_password])
     password_confirm = serializers.CharField(write_only= True)
