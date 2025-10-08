@@ -95,3 +95,5 @@ register-back/
 ## Pruebas:
 - Estas seran noificaciones de prueba
 - Primera prueba falló - El webhook n8n no estaba escuchando
+- Segunda prueba, funcionó  si estaba esuchando
+- Terera rueba, con flujo con http request por probar 
