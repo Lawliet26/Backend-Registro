@@ -98,3 +98,4 @@ register-back/
 - Segunda prueba, funcionó  si estaba esuchando
 - Tercera rueba, con flujo con http request por probar 
 - Pruebas funcionando Descarga de de documentación pendiente
+- Se realizaran pruebas para la segunda integración de flujo con Fong
