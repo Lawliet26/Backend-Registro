@@ -101,3 +101,5 @@ register-back/
 - Se realizaran pruebas para la segunda integración de flujo con Fong
 
 - Pasos a realizar despues que quedan pendientes en la app es realizar el rolamiento de los usuarios y asiganr permisos 
+
+- Cambio para agregar flujo alterno del proceso de documentación
