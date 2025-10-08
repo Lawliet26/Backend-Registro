@@ -91,3 +91,6 @@ register-back/
 ---
 
 > Proyecto de prueba para verificar el funcionamiento de la automatización de n8n y la integración de APIs en Django.
+
+## Pruebas:
+-Estas seran noificaciones de prueba
