@@ -104,3 +104,4 @@ register-back/
 
 - Cambio para agregar flujo alterno del proceso de documentación
 - Prueba de plujo alterno 2
+- Prueba de flujo alterno corregido pendiende
