@@ -93,4 +93,5 @@ register-back/
 > Proyecto de prueba para verificar el funcionamiento de la automatización de n8n y la integración de APIs en Django.
 
 ## Pruebas:
--Estas seran noificaciones de prueba
+- Estas seran noificaciones de prueba
+- Primera prueba falló - El webhook n8n no estaba escuchando
