@@ -6,6 +6,7 @@ from rest_framework.permissions import AllowAny
 from rest_framework import status
 
 # Create your views here.
+
 @api_view(["POST"])
 @permission_classes([AllowAny])
 def register_user(request):
