@@ -13,7 +13,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ## Estructura del Proyecto
 
-## se agrega un nuevo comentario para la prueba
+## se agrega un nuevo comentario para la prueba 
   
 ```
 register-back/
