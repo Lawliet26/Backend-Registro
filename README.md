@@ -35,7 +35,7 @@ register-back/
 │   ├── urls.py
 │   └── wsgi.py
 ├── .env (archivo requerido - ver configuración abajo) 
-├── manage.py
+├── manage.py 
 ├── Pipfile
 ├── Pipfile.lock
 └── README.md
