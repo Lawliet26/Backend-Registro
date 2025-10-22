@@ -20,8 +20,8 @@ register-back/
 ├── apps/
 │   └── register/
 │       ├── api/
-│       │   ├── serializers.py
-│       │   ├── views.py  
+│       │   ├── serializers.py 
+│       │   ├── views.py   
 │       │   └── urls.py 
 │       ├── migrations/ 
 │       ├── admin.py
