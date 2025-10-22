@@ -234,4 +234,6 @@ Para más información sobre el desarrollo o contribuciones, contacta al desarro
 3. Proabndo flujo masreciente com cambios en la api Key del motor de IA
 4. Prueba en producción del flujo: Daniel
 5. Segunda prueba flujo producción
+6. Segunda prueba de produccción ejecutada con exito, sin embago el formato de salida presenta inconsistencias.
+
 
