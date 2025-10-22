@@ -19,7 +19,7 @@ register-back/
 │   └── register/
 │       ├── api/
 │       │   ├── serializers.py
-│       │   ├── views.py 
+│       │   ├── views.py  
 │       │   └── urls.py
 │       ├── migrations/
 │       ├── admin.py
