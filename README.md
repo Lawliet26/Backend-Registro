@@ -27,7 +27,7 @@ register-back/
 │       ├── models.py
 │       ├── tests.py
 │       ├── urls.py
-│       └── views.py
+│       └── views.py 
 ├── registerback/
 │   ├── __init__.py
 │   ├── asgi.py
