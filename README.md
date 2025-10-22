@@ -226,3 +226,7 @@ El proyecto utiliza un modelo de usuario personalizado con los siguientes roles:
 - **Licencia:** [Especificar si aplica]
 
 Para más información sobre el desarrollo o contribuciones, contacta al desarrollador del proyecto.
+
+
+- **Pruebas de automtización**: 
+1. repaso de flujo de Documentación automatica
