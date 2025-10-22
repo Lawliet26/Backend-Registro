@@ -230,3 +230,4 @@ Para más información sobre el desarrollo o contribuciones, contacta al desarro
 
 - **Pruebas de automtización**: 
 1. repaso de flujo de Documentación automatica
+2. Primer flujo falló por error en el nodo de HTTP request
