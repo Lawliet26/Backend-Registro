@@ -235,5 +235,5 @@ Para más información sobre el desarrollo o contribuciones, contacta al desarro
 4. Prueba en producción del flujo: Daniel
 5. Segunda prueba flujo producción
 6. Segunda prueba de produccción ejecutada con exito, sin embago el formato de salida presenta inconsistencias.
-
+7. Se presentan incosistencias en el proceso de del motor de IA en la prueba
 
