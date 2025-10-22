@@ -12,7 +12,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - **Git** (para clonar el repositorio)
 
 ## Estructura del Proyecto
- 
+  
 ```
 register-back/
 ├── apps/
