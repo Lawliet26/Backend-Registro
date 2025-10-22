@@ -23,7 +23,7 @@ register-back/
 │       │   ├── serializers.py
 │       │   ├── views.py  
 │       │   └── urls.py 
-│       ├── migrations/
+│       ├── migrations/ 
 │       ├── admin.py
 │       ├── apps.py
 │       ├── models.py
