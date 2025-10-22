@@ -4,7 +4,7 @@ Proyecto de backend en Django para la gestión de usuarios, registro y autentica
 
 ## Requisitos Previos
 
-Antes de ejecutar el proyecto, asegúrate de tener instalado:
+Antes de ejecutar el proyecto, asegúrate de tener instalado: 
 
 - **Python 3.12** o superior
 - **PostgreSQL** (versión 12 o superior)
