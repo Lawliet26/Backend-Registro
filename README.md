@@ -13,7 +13,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ## Estructura del Proyecto
 
-## se agrega un nuevo comentario para la prueba asdasdasda
+## se agrega un nuevo comentario para la prueba prueba de envio mensaje
   
 ```
 register-back/
@@ -22,7 +22,7 @@ register-back/
 │       ├── api/
 │       │   ├── serializers.py 
 │       │   ├── views.py    
-│       │   └── urls.py 
+│       │   └── urls.py   
 │       ├── migrations/ 
 │       ├── admin.py
 │       ├── apps.py
